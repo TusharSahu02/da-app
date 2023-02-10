@@ -2,7 +2,12 @@
 
 A responsive website with some best technologies used
 
-##Screen Recording :
+->Tailwind CSS 
+->React-Typed : for writing animation on loop
+->React-Icons : to fetch all icons 
+
+
+## Screen Recording :
 
 https://user-images.githubusercontent.com/82487339/218150821-a24d2f77-e15d-4b81-85be-f383fadc72ab.mp4
 
@@ -46,7 +51,7 @@ Instead, it will copy all the configuration files and the transitive dependencie
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
 
-### Deployment
+### `Deployment`
 
 Deployed link : https://tusharsahu02.github.io/da-app/
 
