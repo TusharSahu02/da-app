@@ -3,7 +3,9 @@
 A responsive website with some best technologies used
 
 Tailwind CSS 
+
 React-Typed : for writing animation on loop
+
 React-Icons : to fetch all icons 
 
 
